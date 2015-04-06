@@ -1,4 +1,4 @@
-# intern-hexchat-theme
+# Intern
 Intern is a dark, low-contrast, HexChat theme based on the awesome Vim colorscheme [Apprentice](https://github.com/romainl/Apprentice) by Romain Lafourcade.
 
 ## Installation
