@@ -19,4 +19,4 @@ unzip intern.hct -d ~/.config/hexchat
 Open HexChat. 
 
 ## Screenshot
-![alt text](http://i.imgur.com/NaAJ9G4.png "Screenshot")
+![alt text](http://i.imgur.com/J2NBd28.png "Screenshot")
